@@ -1,0 +1,39 @@
+change voice
+date
+time
+weather
+forecast
+how's the weather
+what time is now
+what is today's date
+what's tomorrow's forecast
+open firefox
+close firefox
+next
+previous
+escape
+back
+play
+pause
+browser
+close browser
+minimize
+maximize
+exit
+quit
+wake
+sleep
+close
+hello
+hi
+cancel
+yes
+no
+Anna
+Hazel
+David
+Zira
+Ravi
+search
+how are you
+who are you
